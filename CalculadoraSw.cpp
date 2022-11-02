@@ -18,7 +18,7 @@ void case1(){
     cout << "                                 Tabela                                   " << endl;
     cout << "------------------------------------------------------------------------------" << endl;
     cout << "|     Mob      |    33%    |    24%    |    19%    |    10%    |    Torre    |" << endl;
-    cout << "|    " << mob1 << "    |    " << 
+    cout << "|    "    << mob1 << "    |    " << 
         (spdbase*0.33 + spdbase*0.15 + spdbase + spd) << "    |     " <<
         (spdbase*0.24 + spdbase*0.15 + spdbase + spd) << "    |     " <<   
         (spdbase*0.19 + spdbase*0.15 + spdbase + spd) << "    |     " << 
